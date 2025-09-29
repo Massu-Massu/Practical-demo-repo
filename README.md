@@ -48,7 +48,7 @@ My GitHub is where I practice, build, and share projects as I sharpen my skills 
 ## 🤝 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=firefox)](https://your-portfolio-link.com)  
-📫 Email: **your-email@example.com**  
+📫 Email: **massumassu005@gmail.com**  
 
 ---
 
